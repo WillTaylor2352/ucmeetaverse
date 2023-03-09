@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/ucmeetaverse/static/css/main.756af292.css",
-    "main.js": "/ucmeetaverse/static/js/main.7b1bda3f.js",
+    "main.js": "/ucmeetaverse/static/js/main.fbbb5adb.js",
     "static/js/787.b93aa06a.chunk.js": "/ucmeetaverse/static/js/787.b93aa06a.chunk.js",
     "static/media/logo.svg": "/ucmeetaverse/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/ucmeetaverse/index.html",
     "main.756af292.css.map": "/ucmeetaverse/static/css/main.756af292.css.map",
-    "main.7b1bda3f.js.map": "/ucmeetaverse/static/js/main.7b1bda3f.js.map",
+    "main.fbbb5adb.js.map": "/ucmeetaverse/static/js/main.fbbb5adb.js.map",
     "787.b93aa06a.chunk.js.map": "/ucmeetaverse/static/js/787.b93aa06a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.756af292.css",
-    "static/js/main.7b1bda3f.js"
+    "static/js/main.fbbb5adb.js"
   ]
 }
